@@ -1,0 +1,72 @@
+{
+    "name": "Number 0003",
+    "description": "Description goes here.",
+    "image": "https://BASE.URL.GOES.HERE/0003.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Dragon",
+            "frequency": "0.99%"
+        },
+        {
+            "trait_type": "Skin Tone",
+            "value": "Tan",
+            "frequency": "49.50%"
+        },
+        {
+            "trait_type": "Face Decoration",
+            "value": "Wounds",
+            "frequency": "10.00%"
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "None",
+            "frequency": "40.00%"
+        },
+        {
+            "trait_type": "Outfit",
+            "value": "Bandages",
+            "frequency": "0.94%"
+        },
+        {
+            "trait_type": "Choker",
+            "value": "None",
+            "frequency": "50.00%"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Roman",
+            "frequency": "50.00%"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Rage",
+            "frequency": "1.13%"
+        },
+        {
+            "trait_type": "Eye Color",
+            "value": "Red",
+            "frequency": "3.23%"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Human",
+            "frequency": "49.50%"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Moshima Brown",
+            "frequency": "3.57%"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Band Red",
+            "frequency": "10.00%"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "None",
+            "frequency": "18.87%"
+        }
+    ]
+}

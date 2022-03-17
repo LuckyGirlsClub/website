@@ -1,0 +1,72 @@
+{
+    "name": "Number 0000",
+    "description": "Description goes here.",
+    "image": "https://BASE.URL.GOES.HERE/0000.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Snow",
+            "frequency": "2.97%"
+        },
+        {
+            "trait_type": "Skin Tone",
+            "value": "Pale",
+            "frequency": "49.50%"
+        },
+        {
+            "trait_type": "Face Decoration",
+            "value": "Blush",
+            "frequency": "27.50%"
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "None",
+            "frequency": "40.00%"
+        },
+        {
+            "trait_type": "Outfit",
+            "value": "Sweater Christmas",
+            "frequency": "0.94%"
+        },
+        {
+            "trait_type": "Choker",
+            "value": "None",
+            "frequency": "50.00%"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Sloped",
+            "frequency": "50.00%"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Wink",
+            "frequency": "8.47%"
+        },
+        {
+            "trait_type": "Eye Color",
+            "value": "Green",
+            "frequency": "25.81%"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Human",
+            "frequency": "49.50%"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Gothia Blonde",
+            "frequency": "3.57%"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Santa",
+            "frequency": "1.00%"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Half Moon",
+            "frequency": "14.15%"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Number 0008",
+    "description": "Description goes here.",
+    "image": "https://BASE.URL.GOES.HERE/0008.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink Comic",
+            "frequency": "7.92%"
+        },
+        {
+            "trait_type": "Skin Tone",
+            "value": "Pale",
+            "frequency": "49.50%"
+        },
+        {
+            "trait_type": "Face Decoration",
+            "value": "Blush",
+            "frequency": "27.50%"
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "None",
+            "frequency": "40.00%"
+        },
+        {
+            "trait_type": "Outfit",
+            "value": "TS Lucky White",
+            "frequency": "1.89%"
+        },
+        {
+            "trait_type": "Choker",
+            "value": "None",
+            "frequency": "50.00%"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Sloped",
+            "frequency": "50.00%"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Smile",
+            "frequency": "22.60%"
+        },
+        {
+            "trait_type": "Eye Color",
+            "value": "Pink",
+            "frequency": "3.23%"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Human",
+            "frequency": "49.50%"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Gothia Pink",
+            "frequency": "1.67%"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Lucky Red",
+            "frequency": "3.00%"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Rose Tint",
+            "frequency": "9.43%"
+        }
+    ]
+}

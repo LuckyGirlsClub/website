@@ -1,0 +1,72 @@
+{
+    "name": "Number 0001",
+    "description": "Description goes here.",
+    "image": "https://BASE.URL.GOES.HERE/0001.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow Comic",
+            "frequency": "7.92%"
+        },
+        {
+            "trait_type": "Skin Tone",
+            "value": "Pale",
+            "frequency": "49.50%"
+        },
+        {
+            "trait_type": "Face Decoration",
+            "value": "Wounds",
+            "frequency": "10.00%"
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "None",
+            "frequency": "40.00%"
+        },
+        {
+            "trait_type": "Outfit",
+            "value": "Sweater Green",
+            "frequency": "5.66%"
+        },
+        {
+            "trait_type": "Choker",
+            "value": "Ring",
+            "frequency": "40.00%"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Sloped",
+            "frequency": "50.00%"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Smug",
+            "frequency": "14.12%"
+        },
+        {
+            "trait_type": "Eye Color",
+            "value": "Yellow",
+            "frequency": "3.23%"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Human",
+            "frequency": "49.50%"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Gothia Green",
+            "frequency": "1.67%"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Bucket Green",
+            "frequency": "3.00%"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Coolshades",
+            "frequency": "9.43%"
+        }
+    ]
+}
